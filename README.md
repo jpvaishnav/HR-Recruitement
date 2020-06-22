@@ -32,3 +32,5 @@ choose any of the process and execute
 testing:
 For authentication of applicant information run applicantTest.py 
 For authentication of the standered selection committee run selectionCommitteeTest.py
+
+![out1](https://user-images.githubusercontent.com/46133803/85314239-d0f5eb80-b4d6-11ea-8bfe-4cbb86e1dabd.gif)
