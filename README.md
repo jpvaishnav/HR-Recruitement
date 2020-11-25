@@ -14,13 +14,15 @@ Human resources recruitement model
 ---
 
 ### Installation
-requirement
-Tkinter python
-pickle
+```html
+$ python -m pip install tk
+$ pip install pickle5
+```
 
 ### Run
-Run main.py
-choose any of the process and execute 
+```html
+$ main.py
+```
 
 ### Testing
 For authentication of applicant information run applicantTest.py 
